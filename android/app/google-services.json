@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "429157001699",
+    "project_id": "tbb-ariza-bildirim-1e37c",
+    "storage_bucket": "tbb-ariza-bildirim-1e37c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:429157001699:android:fe666255675a2a904ed8d6",
+        "android_client_info": {
+          "package_name": "com.example.tbb"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnn1m-BBBI8u75jVba_U74ApNE7_H_zGY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
